@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590538731300",
+    "project_id": "fir-auth-a19e6",
+    "storage_bucket": "fir-auth-a19e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590538731300:android:69271e1806577010100db1",
+        "android_client_info": {
+          "package_name": "com.secondlab.firebaseauthwithcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590538731300-rgnbo8jhv89254831ghne9p6me496pg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBST1qOwzR54JKkxo_yy4FIgdE-tSWet-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590538731300-rgnbo8jhv89254831ghne9p6me496pg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
